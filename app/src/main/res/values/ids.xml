@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button8" type="id" />
+    <item name="textView8" type="id" />
+    <item name="Layout" type="id" />
+    <item name="button4" type="id" />
+    <item name="editText1" type="id" />
+    <item name="switch1" type="id" />
+    <item name="editText2" type="id" />
+    <item name="sp_teacher" type="id" />
+    <item name="textView6" type="id" />
+    <item name="button7" type="id" />
+    <item name="btn" type="id" />
+    <item name="textView7" type="id" />
+</resources>
